@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 """
+
+# [中文说明]
+# 本文件：validate_hardedge.py
+# 用途：OpenClaw 框架的核心脚本之一
+# 详细文档：请阅读对应的 SKILL.md 和 references/
+
 validate_hardedge.py — 四硬核工程原则合规校验
 
 校验 Anthropic "Agent Skills" 的 4 条原则是否在 SKILL.md 中落实：

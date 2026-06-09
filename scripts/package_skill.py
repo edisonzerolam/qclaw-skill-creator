@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 """
+
+# [中文说明]
+# 本文件：package_skill.py
+# 用途：OpenClaw 框架的核心脚本之一
+# 详细文档：请阅读对应的 SKILL.md 和 references/
+
 Skill Packager - Creates a distributable .skill file of a skill folder
 
 Usage:
